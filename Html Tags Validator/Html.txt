@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Code Quotient</title>
+</head>
+<body>
+<p>CodeQuotient offers a 3 months FULL time program in software development to prepare you to get a job as <b>software developer</b>.
+CodeQuotient was founded by <font color="red">Arun Goyat. 
+He has worked in technology companies and start-ups across engineering and product management roles and has over 13 years of total work experience.</p>
+
+Here is the email ID:<a href="mailto:info@codequotient.com">info@codequotient.com</a>
+</body>
+</html>
